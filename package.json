@@ -1,6 +1,7 @@
 {
   "name": "javaboil",
   "displayName": "JavaBoil",
+  "publisher":"AgnikBakshi",
   "description": "A boilerplate generator for Java",
   "version": "0.0.1",
   "engines": {
