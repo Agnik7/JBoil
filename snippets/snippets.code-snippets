@@ -1,6 +1,6 @@
 {
-    "!jboil": {
-      "prefix": "!jboil",
+    "!class": {
+      "prefix": "!class",
       "body": [
         "public class ${TM_FILENAME/(.*)\\.java$/$1/}",
         "{",
